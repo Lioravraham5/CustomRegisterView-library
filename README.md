@@ -1,10 +1,11 @@
 # CustomRegisterLibrary
 CustomRegisterLibrary is a library for Android developers to easily integrate a customizable registration fragment into their applications.
 
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/a048a116-38aa-4a58-bad7-85366dd76bf1" alt="Image 2" style="width: 25%; height: 500px; object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/da86ece0-7011-4dc1-8399-6f25bd5ff355" alt="Image 1" style="width: 25%; height: 500px; object-fit: cover;">
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/a048a116-38aa-4a58-bad7-85366dd76bf1" alt="Image 2" style="width: 25%; height: 25%;">
+  <img src="https://github.com/user-attachments/assets/da86ece0-7011-4dc1-8399-6f25bd5ff355" alt="Image 1" style="width: 25%; height: 25%;">
 </div>
+
 
 ## Setup
 Step 1. Add it in your root build.gradle at the end of repositories:
