@@ -2,8 +2,8 @@
 CustomRegisterLibrary is a library for Android developers to easily integrate a customizable registration fragment into their applications.
 
 <div style="display: flex;">
-  <img src="https://github.com/Lioravraham5/customMapLibrary/assets/159531151/c3f1c551-b26f-41d0-a837-e20f0eab0cb9" alt="Image 2" style="width: 25%; height: 25%;">
-  <img src="https://github.com/Lioravraham5/customMapLibrary/assets/159531151/adb97211-d2ab-451b-a5d3-cf652f993ef5" alt="Image 1" style="width: 25%; height: 25%;">
+  <img src="https://github.com/user-attachments/assets/a048a116-38aa-4a58-bad7-85366dd76bf1" alt="Image 2" style="width: 25%; height: 25%;">
+  <img src="https://github.com/user-attachments/assets/da86ece0-7011-4dc1-8399-6f25bd5ff355" alt="Image 1" style="width: 25%; height: 25%;">
 </div>
 
 ## Setup
